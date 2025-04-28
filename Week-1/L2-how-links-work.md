@@ -47,4 +47,4 @@
 2. Browser takes it and styles the html code it recieved, often repeating the steps in Requests
 3. If requests can't be fulfilled, error messages will be sent back (e.g. 404, 500)
 
-*Note usually multiple files are sent back, rarely single files
+> Note: usually multiple files are sent back, rarely single files
