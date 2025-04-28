@@ -182,7 +182,7 @@ Every HTML document follows a basic structure. Here’s an example:
 </body>
 </html>
 ```
-or you can check out a [demo](default-html-file-header.html).
+or you can check out a [demo](Week-1/default-html-file-header.html).
 
 ___
 
