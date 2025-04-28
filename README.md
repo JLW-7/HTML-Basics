@@ -9,7 +9,7 @@ Welcome to **HTML Basics**! This repository is designed to help you learn HTML f
 1. [Introduction](#introduction)
 2. [The Basics](#the-basics)
 3. [How Links Work](#how-links-work)
-4. [The Document Object Model](#the-document-object-model-(dom))
+4. [The Document Object Model](#the-document-object-model)
 5. [HTML5 Elements](#html5-elements)
 
 ---
@@ -137,7 +137,7 @@ ___
 
 ____
 
-## The Document Object Model (DOM)
+## The Document Object Model
 
 ### What is DOM?
 - It is like a **tree**
