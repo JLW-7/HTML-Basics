@@ -1,9 +1,11 @@
 # HTML Basics Tutorial
 
-Welcome to **HTML Basics**! This repository is designed to help you learn HTML from scratch. Whether you're a beginner or looking to refresh your knowledge, this tutorial will guide you through the fundamental concepts of HTML, helping you create your first web pages.
+This repository is designed to help you learn HTML from scratch. Whether you're a beginner or looking to refresh your knowledge, this tutorial will guide you through the fundamental concepts of HTML, helping you create your first web pages.
 
 > [!NOTE]
-> This tutorial is a collection my notes while I learned HTML myself and I decided to share what I learnt with everyone. Most content is minimalistic and in the form of bullet points. It's of course not perfect, so feel free to fork this repository, open issues and submit pull requests!
+> This tutorial is a compilation of my notes from learning HTML, and I wanted to share what I’ve learned. The content is simple, mainly in bullet points. It’s not perfect, feel free to fork, report issues, and submit pull requests!
+
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,6 +13,7 @@ Welcome to **HTML Basics**! This repository is designed to help you learn HTML f
 3. [How Links Work](#how-links-work)
 4. [The Document Object Model](#the-document-object-model)
 5. [HTML5 Elements](#html5-elements)
+6. [More HTML5 Tags](#more-tags)
 
 ---
 
@@ -339,9 +342,11 @@ Here's a demo code consisting of many key HTML elements:
 
 </html>
 ```
-or check out this [demo](L5-demo-code.html).
+or check out this [demo](Week-2/L5-demo-code.html).
 
-This is another demo consisting of more advanced HTML tags:
+## More Tags
+
+This code below combines notes with code. It consists both information you can learn (written in the code), and a demo of many more advanced html tags, including meter, progress, forms and more:
 
 ```html
 <!DOCTYPE html>
@@ -412,6 +417,7 @@ This is another demo consisting of more advanced HTML tags:
 </body>
 </html>
 ```
+You can also check out this [demo](Week-2/L6-tags-demo.html).
 
 ___
 
@@ -419,13 +425,10 @@ ___
 
 Congratulations! You’ve completed the HTML basics tutorial. By now, you should be familiar with the essential building blocks of HTML and ready to start building your own web pages.
 
-For further learning, explore more advanced topics like CSS (styling) and JavaScript (interactivity).
-
-Happy coding!
-
+For further learning, explore more advanced topics like CSS and JavaScript (tutorials coming soon).
 ___
 
-### If you found this helpful, please show some love by giving this a repo a star! Enjoy programming!
+### IF YOU FOUND THIS HELPFUL, PLEASE SHOW SOME LOVE BY GIVING THIS REPO A STAR! HAPPY CODING!
 
 
 
